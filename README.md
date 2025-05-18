@@ -77,5 +77,4 @@ Feel free to connect with me for collaborations, discussions, or knowledge shari
 
 ---
 
-Thank you for visiting my cybersecurity portfolio! 🚀  
-```
+Thank you for visiting my cybersecurity portfolio! 🚀
