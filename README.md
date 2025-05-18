@@ -4,65 +4,76 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 
 
 ### 📑 About Me
-🔹 Enthusiastic cybersecurity professional passionate about security operations and incident response.  
-🔹 Hands-on experience with threat hunting, SIEM, and network security fundamentals.  
-🔹 Constantly learning and adapting to emerging cybersecurity threats and technologies.  
-🔹 Committed to following industry best practices and frameworks.
+- Enthusiastic cybersecurity professional passionate about security operations and incident response.  
+- Hands-on experience with threat hunting, SIEM, and network security fundamentals.  
+- Constantly learning and adapting to emerging cybersecurity threats and technologies.  
+- Committed to following industry best practices and frameworks.
 
 
 ### 🔒 Skills & Expertise
-- _Security Information and Event Management (SIEM)_
-- _Threat Hunting & Incident Response_
-- _Network Security Fundamentals_
-- _Intrusion Detection & Prevention Systems (IDS/IPS)_
-- _Log Analysis & Monitoring_
-- _Firewall & Endpoint Security_
-- _Basic Scripting (Python, PowerShell)_
-- _Cybersecurity Frameworks** (NIST, MITRE ATT&CK)_
+- Security Information and Event Management (SIEM)
+- Threat Hunting & Incident Response
+- Network Security Fundamentals
+- Intrusion Detection & Prevention Systems (IDS/IPS)
+- Log Analysis & Monitoring
+- Firewall & Endpoint Security
+- Basic Scripting (Python, PowerShell)
+- Cybersecurity Frameworks** (NIST, MITRE ATT&CK)
 
 
 ### 🖥️ Featured Projects
-#### **SOC Analyst Home Lab** – Built a virtual lab for hands-on security analysis and incident response using:
+#### Project 1: **SOC Analyst Home Lab**
+Description: Built a virtual lab for hands-on security analysis and incident response using:
    - 🖥️ Ubuntu Server  
    - 💻 Windows 10  
    - 🕵️ Sliver C2  
    - 📊 Sysmon  
-   - 🔍 LimaCharlie  
-   [🔗 Project](#)  
+   - 🔍 LimaCharlie
 
-#### **Active Directory and Splunk Lab** – Configured and monitored Active Directory environments with security logs analysis using:
+![project 1](projects/image1.png)
+
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
+
+#### Project 2: **Active Directory and Splunk Lab**
+Description: Configured and monitored Active Directory environments with security logs analysis using:
    - 🏢 Windows Server 2022  
    - 💻 Windows 10  
    - 🖥️ Ubuntu Server 24.04.1  
    - 📊 Splunk  
    - 🔍 Sysmon  
-   [🔗 Project](#)  
 
-#### **Adversary Emulation with Wazuh and Caldera** – Simulated real-world attack scenarios and monitored security events using:
+![project 1](projects/image1.png)
+
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
+
+#### Project 3: **Adversary Emulation with Wazuh and Caldera**
+Description: Simulated real-world attack scenarios and monitored security events using:
    - 🖥️ Ubuntu  
    - 💻 Windows 10  
    - 🛡️ Wazuh  
    - 🎭 Caldera  
-   [🔗 Project](#)  
 
-#### **SIEM Log Analysis** – Conducted threat detection using Splunk & ELK Stack. 
-[🔗 Project](#)  
+![project 1](projects/image1.png)
 
-#### **Network Traffic Analysis** – Investigated packet captures for potential threats. 
-[🔗 Project](#)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
+#### Project 4: **Wireshark | Pcap Traffic Analysis**
+Description: Investigate suspicious network activity in an Active Directory (AD) environment.
+
+![project 1](projects/image1.png)
+
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
 
 ### 📜 Certifications
-
 - Ethical Hacking Essentials (EHE)
-
 - CompTIA Security+ (SYO-601)
-
 - Penetration Testing and Ethical Hacking
-
 - Android Bug Bounty Hunting
-
 
 
 ### 📚 Education
@@ -84,7 +95,6 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 Feel free to connect with me for collaborations, discussions, or knowledge sharing!  
 
 📧 Email: [yuvrajgurung192@gmail.com](mailto:yuvrajgurung192@gmail.com)
-
 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yuvraj-gurung)
 
 ---
