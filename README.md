@@ -22,7 +22,7 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
 
 
 ### 🖥️ Featured Projects
-#### Project I: **SOC Analyst Home Lab** – Built a virtual lab for hands-on security analysis and incident response using:
+#### **SOC Analyst Home Lab** – Built a virtual lab for hands-on security analysis and incident response using:
    - 🖥️ Ubuntu Server  
    - 💻 Windows 10  
    - 🕵️ Sliver C2  
@@ -30,7 +30,7 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
    - 🔍 LimaCharlie  
    [🔗 Project](#)  
 
-#### Project II: **Active Directory and Splunk Lab** – Configured and monitored Active Directory environments with security logs analysis using:
+#### **Active Directory and Splunk Lab** – Configured and monitored Active Directory environments with security logs analysis using:
    - 🏢 Windows Server 2022  
    - 💻 Windows 10  
    - 🖥️ Ubuntu Server 24.04.1  
@@ -38,22 +38,26 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
    - 🔍 Sysmon  
    [🔗 Project](#)  
 
-#### Project III: **Adversary Emulation with Wazuh and Caldera** – Simulated real-world attack scenarios and monitored security events using:
+#### **Adversary Emulation with Wazuh and Caldera** – Simulated real-world attack scenarios and monitored security events using:
    - 🖥️ Ubuntu  
    - 💻 Windows 10  
    - 🛡️ Wazuh  
    - 🎭 Caldera  
    [🔗 Project](#)  
 
-#### Project IV: **SIEM Log Analysis** – Conducted threat detection using Splunk & ELK Stack. [🔗 Project](#)  
+#### **SIEM Log Analysis** – Conducted threat detection using Splunk & ELK Stack. [🔗 Project](#)  
 
-#### Project V: **Network Traffic Analysis** – Investigated packet captures for potential threats. [🔗 Project](#)
+#### **Network Traffic Analysis** – Investigated packet captures for potential threats. [🔗 Project](#)
 
 
 ### 📜 Certifications
+
 ✅ Ethical Hacking Essentials (EHE)
+
 ✅ CompTIA Security+ (SYO-601)
+
 ✅ Penetration Testing and Ethical Hacking
+
 ✅ Android Bug Bounty Hunting
 
 
@@ -72,10 +76,13 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
 - Learning advanced threat intelligence techniques.
 
 
-📫 **Get in Touch**  
+### 📫 Get in Touch
 Feel free to connect with me for collaborations, discussions, or knowledge sharing!  
+
 📧 Email: [yuvrajgurung192@gmail.com](mailto:yuvrajgurung192@gmail.com)
+
 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yuvraj-gurung)
+
 🌐 Website/Blog: [Your Personal Website]
 
 ---
