@@ -1,6 +1,6 @@
 ## Cybersecurity SOC Analyst Portfolio
 
-Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** with a passion for protecting digital assets, analyzing security threats, and responding to incidents effectively. Here, you will find my journey into cybersecurity, key projects, skills, and certifications that demonstrate my commitment to securing networks and systems.
+Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with a passion for protecting digital assets, analyzing security threats, and responding to incidents effectively. Here, you will find my journey into cybersecurity, key projects, skills, and certifications that demonstrate my commitment to securing networks and systems.
 
 
 ### 📑 About Me
@@ -55,13 +55,13 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
 
 ### 📜 Certifications
 
-✅ Ethical Hacking Essentials (EHE)
+- Ethical Hacking Essentials (EHE)
 
-✅ CompTIA Security+ (SYO-601)
+- CompTIA Security+ (SYO-601)
 
-✅ Penetration Testing and Ethical Hacking
+- Penetration Testing and Ethical Hacking
 
-✅ Android Bug Bounty Hunting
+- Android Bug Bounty Hunting
 
 
 
