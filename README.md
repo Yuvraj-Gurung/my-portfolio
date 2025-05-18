@@ -1,9 +1,9 @@
-## 🛡️ Cybersecurity SOC Analyst Portfolio
+## Cybersecurity SOC Analyst Portfolio
 
 Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** with a passion for protecting digital assets, analyzing security threats, and responding to incidents effectively. Here, you will find my journey into cybersecurity, key projects, skills, and certifications that demonstrate my commitment to securing networks and systems.
 
 
-### 🚀 About Me
+### 📑 About Me
 🔹 Enthusiastic cybersecurity professional passionate about security operations and incident response.  
 🔹 Hands-on experience with threat hunting, SIEM, and network security fundamentals.  
 🔹 Constantly learning and adapting to emerging cybersecurity threats and technologies.  
@@ -11,14 +11,14 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
 
 
 ### 🔒 Skills & Expertise
-- **Security Information and Event Management (SIEM)**
-- **Threat Hunting & Incident Response**
-- **Network Security Fundamentals**
-- **Intrusion Detection & Prevention Systems (IDS/IPS)**
-- **Log Analysis & Monitoring**
-- **Firewall & Endpoint Security**
-- **Basic Scripting (Python, PowerShell)**
-- **Cybersecurity Frameworks** (NIST, MITRE ATT&CK)
+- _Security Information and Event Management (SIEM)_
+- _Threat Hunting & Incident Response_
+- _Network Security Fundamentals_
+- _Intrusion Detection & Prevention Systems (IDS/IPS)_
+- _Log Analysis & Monitoring_
+- _Firewall & Endpoint Security_
+- _Basic Scripting (Python, PowerShell)_
+- _Cybersecurity Frameworks** (NIST, MITRE ATT&CK)_
 
 
 ### 🖥️ Featured Projects
@@ -45,9 +45,12 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
    - 🎭 Caldera  
    [🔗 Project](#)  
 
-#### **SIEM Log Analysis** – Conducted threat detection using Splunk & ELK Stack. [🔗 Project](#)  
+#### **SIEM Log Analysis** – Conducted threat detection using Splunk & ELK Stack. 
+[🔗 Project](#)  
 
-#### **Network Traffic Analysis** – Investigated packet captures for potential threats. [🔗 Project](#)
+#### **Network Traffic Analysis** – Investigated packet captures for potential threats. 
+[🔗 Project](#)
+
 
 
 ### 📜 Certifications
@@ -59,6 +62,7 @@ Welcome to my GitHub portfolio! I am an aspiring **Cybersecurity SOC Analyst** w
 ✅ Penetration Testing and Ethical Hacking
 
 ✅ Android Bug Bounty Hunting
+
 
 
 ### 📚 Education
@@ -81,9 +85,7 @@ Feel free to connect with me for collaborations, discussions, or knowledge shari
 
 📧 Email: [yuvrajgurung192@gmail.com](mailto:yuvrajgurung192@gmail.com)
 
-🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yuvraj-gurung)
-
-🌐 Website/Blog: [Your Personal Website]
+🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yuvraj-gurung)
 
 ---
 
