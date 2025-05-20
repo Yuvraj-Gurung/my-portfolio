@@ -63,7 +63,7 @@ Description: Simulated real-world attack scenarios and monitored security events
 #### Project 4: **Wireshark | Pcap Traffic Analysis**
 Description: Investigate suspicious network activity in an Active Directory (AD) environment.
 
-![project 1](projects/image1.png)
+![project 4](projects/image4.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
