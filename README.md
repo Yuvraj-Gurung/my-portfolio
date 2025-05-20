@@ -32,7 +32,7 @@ Description: Built a virtual lab for hands-on security analysis and incident res
 
 ![project 1](projects/image1.png)
 
-- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/soc-analyst-home-lab)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
 #### Project 2: **Active Directory and Splunk Lab**
@@ -45,7 +45,7 @@ Description: Configured and monitored Active Directory environments with securit
 
 ![project 2](projects/image2.png)
 
-- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/active-directory-and-splunk-lab)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
 #### Project 3: **Adversary Emulation with Wazuh and Caldera**
@@ -57,7 +57,7 @@ Description: Simulated real-world attack scenarios and monitored security events
 
 ![project 3](projects/image3.png)
 
-- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/adversary-emulation-with-wazuh-and-caldera)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
 #### Project 4: **Wireshark | Pcap Traffic Analysis**
@@ -65,7 +65,7 @@ Description: Investigate suspicious network activity in an Active Directory (AD)
 
 ![project 4](projects/image4.png)
 
-- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/wireshark-pcap-traffic-analysis)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
 
 
