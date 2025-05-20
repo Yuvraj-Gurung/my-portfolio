@@ -43,7 +43,7 @@ Description: Configured and monitored Active Directory environments with securit
    - 📊 Splunk  
    - 🔍 Sysmon  
 
-![project 1](projects/image1.png)
+![project 2](projects/image2.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
@@ -55,7 +55,7 @@ Description: Simulated real-world attack scenarios and monitored security events
    - 🛡️ Wazuh  
    - 🎭 Caldera  
 
-![project 1](projects/image1.png)
+![project 3](projects/image3.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
