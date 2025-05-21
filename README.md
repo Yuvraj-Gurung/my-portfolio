@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 - Log Analysis & Monitoring
 - Firewall & Endpoint Security
 - Basic Scripting (Python, PowerShell)
-- Cybersecurity Frameworks** (NIST, MITRE ATT&CK)
+- Cybersecurity Frameworks (NIST, MITRE ATT&CK)
 
 
 ### 🖥️ Featured Projects
@@ -71,7 +71,7 @@ Description: Investigate suspicious network activity in an Active Directory (AD)
 
 ### 📜 Certifications
 - Ethical Hacking Essentials (EHE)
-- CompTIA Security+ (SYO-601)
+- CompTIA Security+ (SY0-601)
 - Penetration Testing and Ethical Hacking
 - Android Bug Bounty Hunting
 
