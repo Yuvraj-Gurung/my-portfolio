@@ -68,6 +68,14 @@ Description: Investigate suspicious network activity in an Active Directory (AD)
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/wireshark-pcap-traffic-analysis)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=ZnNsU5jPaTs)*
 
+#### Project 5: **Elastic (ELK) Stack | SIEM Log Analysis**
+Description: Conducted threat detection using Elastic (ELK) Stack and Mythic C2 Server.
+
+![project 5](projects/image5.png)
+
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/siem-log-analysis-elastic-stack)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=8FtwLeRsyw4)*
+
 
 ### 📜 Certifications
 - Ethical Hacking Essentials (EHE)
