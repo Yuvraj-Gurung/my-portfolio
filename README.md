@@ -21,6 +21,17 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 - Cybersecurity Frameworks (NIST, MITRE ATT&CK)
 
 
+### 🛠️ Tools and Languages
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot Security OS](https://img.shields.io/badge/Parrot_Security_OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-000000?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+
 ### 🖥️ Featured Projects
 #### Project 1: **SOC Analyst Home Lab**
 Description: Built a virtual lab for hands-on security analysis and incident response using:
