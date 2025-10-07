@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 - Cybersecurity Frameworks (NIST, MITRE ATT&CK)
 
 
-### 🛠️ Softwares and Tools
+### 🛠️ Tools and Softwares
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot Security OS](https://img.shields.io/badge/Parrot_Security_OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
