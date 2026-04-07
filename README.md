@@ -1,6 +1,6 @@
 ## Cybersecurity SOC Analyst Portfolio
 
-Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with a passion for protecting digital assets, analyzing security threats, and responding to incidents effectively. Here, you will find my journey into cybersecurity, key projects, skills, and certifications that demonstrate my commitment to securing networks and systems.
+Welcome to my GitHub portfolio! I am an Entry-Level Cybersecurity / SOC Analyst with a passion for protecting digital assets, analyzing security threats, and responding to incidents effectively. Here, you will find my journey into cybersecurity, key projects, skills, and certifications that demonstrate my commitment to securing networks and systems.
 
 
 ### 📑 About Me
@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am an aspiring Cybersecurity SOC Analyst with 
 - Log Analysis & Monitoring
 - Firewall & Endpoint Security
 - Basic Scripting (Python, PowerShell)
-- Cybersecurity Frameworks (NIST, MITRE ATT&CK)
+- Cybersecurity Frameworks (MITRE ATT&CK, Cyber Kill Chain, OWASP Top 10)
 
 
 ### 🛠️ Tools and Softwares
