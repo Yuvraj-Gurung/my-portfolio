@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! I am an Entry-Level Cybersecurity / SOC Analyst 
 
 
 ### 🔒 Skills & Expertise
+- Penetration Testing & Vulnerability Management
 - Security Information and Event Management (SIEM)
 - Threat Hunting & Incident Response
 - Network Security Fundamentals
@@ -32,13 +33,13 @@ Welcome to my GitHub portfolio! I am an Entry-Level Cybersecurity / SOC Analyst 
 
 
 ### 🖥️ Featured Projects
-#### Project 1: **SOC Analyst Home Lab**
-Description: Built a virtual lab for hands-on security analysis and incident response using:
-   - 🖥️ Ubuntu Server  
-   - 💻 Windows 10  
-   - 🕵️ Sliver C2  
-   - 📊 Sysmon  
-   - 🔍 LimaCharlie
+#### Project 1: **Cybersecurity SOC Analyst Home Lab**
+Simulated Threat Detection & Response Workflows in a Virtual SOC Environment
+Description:
+- Designed and configured a comprehensive Security Operations Center (SOC) environment, replicating real-world
+threat detection and response workflows, leading to a 30% improvement in incident detection time.
+- Deployed Sysmon for endpoint telemetry and integrated LimaCharlie for cloud-based log aggregation and
+analysis, enhancing log visibility and threat intelligence by 40%.
 
 ![project 1](projects/image1.png)
 
