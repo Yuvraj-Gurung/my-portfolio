@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I am an Entry-Level Cybersecurity / SOC Analyst 
 - Network Security Fundamentals
 - Intrusion Detection & Prevention Systems (IDS/IPS)
 - Log Analysis & Monitoring
-- Firewall & Endpoint Security
+- Phishing Email Analysis
 - Basic Scripting (Python, PowerShell)
 - Cybersecurity Frameworks (MITRE ATT&CK, Cyber Kill Chain, OWASP Top 10)
 
@@ -35,7 +35,6 @@ Welcome to my GitHub portfolio! I am an Entry-Level Cybersecurity / SOC Analyst 
 ### 🖥️ Featured Projects
 #### Project 1: **Cybersecurity SOC Analyst Home Lab**
 Simulated Threat Detection & Response Workflows in a Virtual SOC Environment
-Description:
 - Designed and configured a comprehensive Security Operations Center (SOC) environment, replicating real-world
 threat detection and response workflows, leading to a 30% improvement in incident detection time.
 - Deployed Sysmon for endpoint telemetry and integrated LimaCharlie for cloud-based log aggregation and
@@ -46,13 +45,12 @@ analysis, enhancing log visibility and threat intelligence by 40%.
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/soc-analyst-home-lab)
 - *[Watch the Live Demo](https://drive.google.com/file/d/1yk1wY3xawjRuF7ueawSSRQPlewZ3VpDv/view?usp=sharing)*
 
-#### Project 2: **Active Directory and Splunk Lab**
-Description: Configured and monitored Active Directory environments with security logs analysis using:
-   - 🏢 Windows Server 2022  
-   - 💻 Windows 10  
-   - 🖥️ Ubuntu Server 24.04.1  
-   - 📊 Splunk  
-   - 🔍 Sysmon  
+#### Project 2: **Active Directory and Splunk Log Management Lab**
+Centralized Log Management & Threat Hunting in Active Directory Environment
+- Built and administered a Windows domain with Active Directory, simulating enterprise-level authentication and
+access control systems.
+- Implemented Sysmon across all endpoints, centralizing logs in Splunk for real-time correlation and threat hunting,
+identifying 15+ simulated attack vectors through data analysis. 
 
 ![project 2](projects/image2.png)
 
@@ -60,19 +58,23 @@ Description: Configured and monitored Active Directory environments with securit
 - *[Watch the Live Demo](https://drive.google.com/file/d/1fM1UTTvvtHB889f9HkHbI_6HDMC9Jq-t/view?usp=sharing)*
 
 #### Project 3: **Adversary Emulation with Wazuh and Caldera**
-Description: Simulated real-world attack scenarios and monitored security events using:
-   - 🖥️ Ubuntu  
-   - 💻 Windows 10  
-   - 🛡️ Wazuh  
-   - 🎭 Caldera  
+Simulating Attacker Behavior to Strengthen Security Monitoring
+- Used Caldera and Atomic Red Team to emulate 20+ MITRE ATT&CK techniques, identifying key weaknesses in
+endpoint and network defenses.
+- Integrated Wazuh for real-time log analysis, implementing custom rules that detected anomalous behaviors,
+reducing alert fatigue by 25% through automated incident classification. 
 
 ![project 3](projects/image3.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/adversary-emulation-with-wazuh-and-caldera)
 - *[Watch the Live Demo](https://drive.google.com/file/d/1AilRTvi4gNgcJWk_HkmiB9VnDpKSVVUH/view?usp=sharing)*
 
-#### Project 4: **Wireshark | Pcap Traffic Analysis**
-Description: Investigate suspicious network activity in an Active Directory (AD) environment.
+#### Project 4: **Wireshark | PCAP Traffic Analysis**
+Network Traffic Analysis for Malicious Activity Detection
+- Analyzed network traffic captures (PCAP) using Wireshark to detect and respond to potential indicators of
+compromise (IoC), uncovering several instances of DNS tunneling and port scanning.
+- Dissected and identified over 10 malicious payloads across various network protocols, enhancing detection
+capabilities for future incidents.
 
 ![project 4](projects/image4.png)
 
