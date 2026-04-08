@@ -82,8 +82,12 @@ capabilities for future incidents.
 - *[Watch the Live Demo](https://drive.google.com/file/d/16mir1P8zmAmD2IaWFJhX-LFyclmtuatT/view?usp=sharing
 )*
 
-#### Project 5: **Elastic (ELK) Stack | SIEM Log Analysis**
-Description: Conducted threat detection using Elastic (ELK) Stack and Mythic C2 Server.
+#### Project 5: **Elastic Stack (ELK) | SIEM Log Analysis**
+Using Elastic Stack for Log Analysis and Red Team Operations
+- Deployed Elastic Stack (Kali Purple) to ingest and visualize logs from simulated attack scenarios, improving SIEM 
+detection accuracy by 35%.
+- Conducted red team operations using Mythic C2 and Metasploit, generating threat data that was successfully 
+ingested into ELK for analysis and reporting.
 
 ![project 5](projects/image5.png)
 
